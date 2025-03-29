@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 29 Mar 2025 16:55:51 at https://powderblue-cat-511351.hostingersite.com/fObywatel_ludzie_p2xt4gLmsl/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://powderblue-cat-511351.hostingersite.com/fObywatel_ludzie_p2xt4gLmsl/ -O1 "C:\My Web Sites\Obywatel" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:55:57	Error: 	"Forbidden" (403) at link https://scontent.fpoz4-1.fna.fbcdn.net/v/t1.15752-9/481453553_2996388623995955_3371289384978279393_n.png?_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_ohc=xxA93dm_bFMQ7kNvgHWbUD9&_nc_oc=Adjg9eap9HNC6BaA-nli3vDHUDET_Kk9cvkSisyKbEMhMu5GeaViI_SsWRWLplVDCj4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fpoz4-1.fna&oh=03_Q7cD1gHBbZjSkp7Xyb59d7VNQn_Ek8ASnCR1-X8sGHde8Bdl8g&oe=67E3E2C6 (from https://powderblue-cat-511351.hostingersite.com/fObywatel_ludzie_p2xt4gLmsl/dowodnowy.html)
+16:55:57	Error: 	"Not Found" (404) at link https://powderblue-cat-511351.hostingersite.com/fObywatel_ludzie_p2xt4gLmsl/rozwijka.js (from https://powderblue-cat-511351.hostingersite.com/dowod_files/rozwijka.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 seconds : 21 links scanned, 18 files written (1530282 bytes overall) [1443858 bytes received at 240643 bytes/sec], 151342 bytes transferred using HTTP compression in 15 files, ratio 31%, 5.2 requests per connection
+(2 errors, 0 warnings, 0 messages)
